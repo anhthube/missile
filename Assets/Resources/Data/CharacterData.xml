@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<CharacterDataCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Characters>
+    <Character>
+      <CharID>01</CharID>
+      <CharName>01 Spiderman</CharName>
+      <SkillType>1</SkillType>
+      <Speed>10</Speed>
+      <TurnRate>500</TurnRate>
+      <EnergyRegen>20</EnergyRegen>      
+      <SkillLevel>0</SkillLevel> 
+      <Price>40</Price>      
+      <UnlockAtLevel>1</UnlockAtLevel>
+    </Character>
+    <Character>
+      <CharID>02</CharID>
+      <CharName>02 Batman</CharName>
+      <SkillType>2</SkillType>
+      <Speed>11</Speed>
+      <TurnRate>16</TurnRate>
+      <EnergyRegen>30</EnergyRegen>      
+      <SkillLevel>0</SkillLevel>
+      <Price>50</Price>      
+      <UnlockAtLevel>1</UnlockAtLevel>
+    </Character>
+    <Character>
+      <CharID>03</CharID>
+      <CharName>03 TuLLVC</CharName>
+      <SkillType>3</SkillType>
+      <Speed>12</Speed>
+      <TurnRate>17</TurnRate>
+      <EnergyRegen>40</EnergyRegen>      
+      <SkillLevel>0</SkillLevel>
+      <Price>150</Price>      
+      <UnlockAtLevel>1</UnlockAtLevel>
+    </Character>      
+  </Characters>
+</CharacterDataCollection>
